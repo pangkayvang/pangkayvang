@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pangkayvang
 - 👀 I’m interested in software development and design
-- 🎓 I earned my BS in Computer Information Systems through Mid-America University
+- 🎓 I earned my BS in Computer Information Systems through Mid-America Nazarene University
 - 🏫 I’m looking to build a school management system to streamline processes, making the lives of students, parents and school administrators less stressful
 - 📫 How to reach me: pangkayvang@gmail.com 
 - 😄 Pronouns: She/her
